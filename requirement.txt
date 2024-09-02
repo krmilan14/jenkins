@@ -1,0 +1,5 @@
+install python3.12
+
+install pip
+
+pip install numpy
